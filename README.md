@@ -15,7 +15,9 @@
 ## 📦 安装方法
 
 1. 确保浏览器安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展
+
 2[点击此处安装脚本](https://github.com/YXSJ111/chunkbase-translate/raw/main/chunkbase-cn.user.js)（或者手动复制 `chunkbase-cn.user.js` 的内容粘贴到 Tampermonkey 新建脚本中）
+
 3打开 [chunkbase.com](https://www.chunkbase.com/)，享受中文界面！
 
 ## 🧩 翻译内容
